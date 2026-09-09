@@ -27,5 +27,5 @@ Install the required libraries:
 
 ```bash
 pip install -r requirements.txt
-'''bash
+### To run the File
 python fire_smoke_detection.py
