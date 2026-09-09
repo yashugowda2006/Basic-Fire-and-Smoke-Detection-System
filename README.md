@@ -24,3 +24,8 @@ A real-time computer vision system that detects possible fire and smoke using a 
 ## Installation
 
 Install the required libraries:
+
+```bash
+pip install -r requirements.txt
+'''bash
+python fire_smoke_detection.py
